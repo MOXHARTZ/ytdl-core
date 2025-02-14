@@ -1,7 +1,7 @@
 node_modules
 src/core/CacheFiles
 # package
-bundle
+# bundle
 package-lock.json
 publish.txt
 /reference/*
